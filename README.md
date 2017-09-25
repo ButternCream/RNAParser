@@ -1,6 +1,8 @@
 # RNA Parser
 
-*For help*
+**Parses files which contains an RNA sequence and outputs the found peptides to a file**
+
+**For help**
 ```
 python3 app.py -h
 ```
