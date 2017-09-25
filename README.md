@@ -1,6 +1,6 @@
 # RNA Parser
 
-**Parses files which contains an RNA sequence and outputs the found peptides to a file**
+**Parses files which contain an RNA sequence and outputs the found peptides to a file**
 
 **For help**
 ```
