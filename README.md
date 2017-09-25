@@ -1,6 +1,6 @@
 # RNA Parser
 
-**Parses files which contain an RNA sequence and outputs the found peptides to a file**
+**Parses an RNA sequence to find peptides**
 
 **For help**
 ```
@@ -26,7 +26,7 @@ python3 app.py -e=out -f examples/HomoSapien.RNA
 ```
 will create HomoSapien.out in Peptides folder
 
-Delete a specified directory with -c or --clean
+Delete a specified directory with --clean or -c
 ```
 python3 app.py -c Peptides
 ```
