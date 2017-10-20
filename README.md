@@ -17,7 +17,7 @@ python3 app.py -f examples/HomoSapien.RNA
 
 Specify the output directory with --output or -o, default is 'Peptides'
 ```
-python3 app.py --output=Converted -f examples/HomoSapien.RNA
+python3 app.py -o=Converted -f examples/HomoSapien.RNA
 ```
 
 Specify the file extension of the output with --extension or -e
